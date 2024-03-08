@@ -1,10 +1,11 @@
 # Hi, I’m Rahul Kumar
 
-### Currently learning **`Programming Languages :`**
+### Currently learning:
 - HTML5
 - CSS
 - Javascript
 - Python
+- SQL
 
 <!---
 iamrahulkumar052/iamrahulkumar052 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
